@@ -12,5 +12,6 @@ package com.mycompany.mavenproject3;
 public class TestClass {
     public static void main(String args[]){
         System.out.println("Let's test! For science, you monster.");
+        System.out.println("So I changed it.");
     }
 }
